@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "591c93e3-2082-2d6c-7752-dedc4fbe27d4",
+  "instructors": {
+    "content": [
+      "78742779-553b-1abf-161d-125c1351b2fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "78c8aad9-9135-4313-6466-1fa7434333e2",
+    "website": "18-02-multivariable-calculus-fall-2007"
+  },
+  "course_title": "Multivariable Calculus",
+  "hide_download": true,
+  "course_description": "This course covers vector and multi-variable calculus. It is the second semester in the freshman calculus sequence. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.\n\nMIT OpenCourseWare offers another version of 18.02, from the Spring 2006 term. Both versions cover the same material, although they are taught by different faculty and rely on different textbooks. Multivariable Calculus (18.02) is taught during the Fall and Spring terms at MIT, and is a required subject for all MIT undergraduates.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.02",
+  "course_image_thumbnail": {
+    "content": "1b0eb906-b383-bc1a-069a-9ddb2ca0c6d5",
+    "website": "18-02-multivariable-calculus-fall-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "cd9fbc4e-5c2b-41da-900d-cc73ed07d398",
+  "site_short_id": "18.02-fall-2007",
+  "site_url_path": "courses/18-02-multivariable-calculus-fall-2007",
+  "title": "Course Metadata"
+}
