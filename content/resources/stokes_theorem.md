@@ -5,8 +5,6 @@ description: "Supplementary notes on Stokes' theorem, the relation of Stokes' th
 file: /courses/18-02-multivariable-calculus-fall-2007/e1401b5bdc1694b9e86f64d626234a41_stokes_theorem.pdf
 file_size: 357254
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

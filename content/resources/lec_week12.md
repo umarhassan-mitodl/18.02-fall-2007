@@ -5,8 +5,6 @@ description: Lecture summary for Week 12. Topics include the divergence theorem,
 file: /courses/18-02-multivariable-calculus-fall-2007/1b3d87f397619498be5ef0194d2dc564_lec_week12.pdf
 file_size: 155466
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

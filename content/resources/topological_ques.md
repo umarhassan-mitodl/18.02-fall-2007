@@ -5,8 +5,6 @@ description: Supplementary notes on vector integral calculus, Stokes' theorem, a
 file: /courses/18-02-multivariable-calculus-fall-2007/7a04b732399de854f5ecfaf8cc996735_topological_ques.pdf
 file_size: 300548
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

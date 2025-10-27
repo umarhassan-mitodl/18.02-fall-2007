@@ -6,8 +6,6 @@ description: Supplementary exercises on line integrals in the plane, plane vecto
 file: /courses/18-02-multivariable-calculus-fall-2007/c72e515e67f30f3e30de5693daf1b687_line_intgrl_plan.pdf
 file_size: 394171
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

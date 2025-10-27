@@ -5,8 +5,6 @@ description: Lecture summary for Week 7. Topics include double integrals, exchan
 file: /courses/18-02-multivariable-calculus-fall-2007/b650aa66e211773df2cb871ae60e56de_lec_week7.pdf
 file_size: 192855
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

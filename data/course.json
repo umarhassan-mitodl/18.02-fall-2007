@@ -30,7 +30,6 @@
     "website": "18-02-multivariable-calculus-fall-2007"
   },
   "course_title": "Multivariable Calculus",
-  "hide_download": true,
   "course_description": "This course covers vector and multi-variable calculus. It is the second semester in the freshman calculus sequence. Topics include vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.\n\nMIT OpenCourseWare offers another version of 18.02, from the Spring 2006 term. Both versions cover the same material, although they are taught by different faculty and rely on different textbooks. Multivariable Calculus (18.02) is taught during the Fall and Spring terms at MIT, and is a required subject for all MIT undergraduates.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "1b0eb906-b383-bc1a-069a-9ddb2ca0c6d5",
     "website": "18-02-multivariable-calculus-fall-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",

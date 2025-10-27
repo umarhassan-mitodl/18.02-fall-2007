@@ -5,8 +5,6 @@ description: Supplementary notes on the use of the divergence theorem, Stokes' t
 file: /courses/18-02-multivariable-calculus-fall-2007/09ae8ccfce72c4883f1cedf16213f381_relation_to_phy.pdf
 file_size: 316632
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

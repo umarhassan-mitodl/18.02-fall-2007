@@ -3,8 +3,6 @@ content_type: page
 description: This section provides practice exams with solutions. For each in-class
   exam, there are two practice exams, called A and B, intended to be of the same general
   level of difficulty as the actual exam.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

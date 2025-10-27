@@ -5,8 +5,6 @@ description: Supplementary notes on line integrals in space, curves in space, gr
 file: /courses/18-02-multivariable-calculus-fall-2007/e093a895dedaa47e2ef75b194aca0664_line_integrals.pdf
 file_size: 250274
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

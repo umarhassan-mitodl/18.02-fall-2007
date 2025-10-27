@@ -6,8 +6,6 @@ description: Supplementary notes on partial differentiation with non-independent
 file: /courses/18-02-multivariable-calculus-fall-2007/8515a1da4c8e0b043740c8b7e32775f1_non_ind_variable.pdf
 file_size: 503020
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

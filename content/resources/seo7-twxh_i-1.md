@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-02-multivariable-calculus-fall-2007/d9a3cefd83872472a9c5df0f694d9439_seO7-TwXH_I.pdf
 file_size: 36610
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

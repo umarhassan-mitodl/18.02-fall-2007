@@ -4,8 +4,6 @@ description: Supplementary exercises on vectors and matrices.
 file: /courses/18-02-multivariable-calculus-fall-2007/e98dbac2fcbe843ac0214c1469cef065_vectors_matrices.pdf
 file_size: 682298
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

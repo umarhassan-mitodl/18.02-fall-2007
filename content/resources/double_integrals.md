@@ -6,8 +6,6 @@ description: Supplementary exercises on double integrals in rectangular and pola
 file: /courses/18-02-multivariable-calculus-fall-2007/1f347ef15edbc8817a6ea296d57362f2_double_integrals.pdf
 file_size: 297021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

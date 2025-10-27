@@ -6,8 +6,6 @@ description: Lecture summary for Week 1.  Topics include the goal of multivariat
 file: /courses/18-02-multivariable-calculus-fall-2007/649253ba60d11b0598cc58e9dcf58142_lec_week1.pdf
 file_size: 185966
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

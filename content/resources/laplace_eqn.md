@@ -6,8 +6,6 @@ description: Supplementary notes on Laplace's equation, harmonic functions, vect
 file: /courses/18-02-multivariable-calculus-fall-2007/f1a0cf39eb77687f6ae291acd0f7cdd8_laplace_eqn.pdf
 file_size: 352662
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

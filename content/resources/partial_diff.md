@@ -8,8 +8,6 @@ description: Supplementary exercises on partial differentiation, functions and p
 file: /courses/18-02-multivariable-calculus-fall-2007/2e64bdde03a222e2996cc339fadc4cdb_partial_diff.pdf
 file_size: 597451
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

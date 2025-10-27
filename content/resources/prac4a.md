@@ -5,8 +5,6 @@ description: Practice exam on multivariable calculus, intended to be of the same
 file: /courses/18-02-multivariable-calculus-fall-2007/f130822a92000fab91936e8e800def97_prac4a.pdf
 file_size: 113091
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

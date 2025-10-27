@@ -5,8 +5,6 @@ description: Supplementary notes on differentiation of products of vectors, Kepl
 file: /courses/18-02-multivariable-calculus-fall-2007/8051542b0fcaf8ec3e3c81ed2419d3f2_kepler_secnd_law.pdf
 file_size: 180096
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

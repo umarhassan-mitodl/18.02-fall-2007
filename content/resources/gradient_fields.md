@@ -5,8 +5,6 @@ description: Supplementary notes on gradient fields in space, the criterion for 
 file: /courses/18-02-multivariable-calculus-fall-2007/f9930ed73e88877a97fa629fb98ebcb6_gradient_fields.pdf
 file_size: 258808
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

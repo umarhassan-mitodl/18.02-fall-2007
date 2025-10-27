@@ -4,8 +4,6 @@ description: Solutions to supplementary exercises on vectors and matrices.
 file: /courses/18-02-multivariable-calculus-fall-2007/38997951b714e04e4800b9a07f85467b_vectr_mtrics_sol.pdf
 file_size: 633094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

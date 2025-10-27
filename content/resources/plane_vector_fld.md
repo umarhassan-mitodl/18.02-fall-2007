@@ -5,8 +5,6 @@ description: 'Supplementary notes on vector integral calculus, vector fields in 
 file: /courses/18-02-multivariable-calculus-fall-2007/d6767e9b7f353a29a61024a2db662fe1_plane_vector_fld.pdf
 file_size: 335353
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: Lecture summary for Week 4. Topics include functions of several var
 file: /courses/18-02-multivariable-calculus-fall-2007/a107b0335c1b55a80c8b4b37540cccac_lec_week4.pdf
 file_size: 184704
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

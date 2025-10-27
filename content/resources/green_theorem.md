@@ -6,8 +6,6 @@ description: "Supplementary notes on Green's theorem in normal form, Green's the
 file: /courses/18-02-multivariable-calculus-fall-2007/80f491ca5f3d28fb0fb0837c2c03dd8f_green_theorem.pdf
 file_size: 288140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

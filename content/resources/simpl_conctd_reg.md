@@ -5,8 +5,6 @@ description: Supplementary notes on simply-connected regions, the extended Green
 file: /courses/18-02-multivariable-calculus-fall-2007/2bf6a40501346d3002f4ab1a739585a0_simpl_conctd_reg.pdf
 file_size: 298806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

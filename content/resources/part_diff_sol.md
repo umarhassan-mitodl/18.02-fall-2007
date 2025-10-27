@@ -8,8 +8,6 @@ description: Solutions to supplementary exercises on partial differentiation, fu
 file: /courses/18-02-multivariable-calculus-fall-2007/6258a42abf7620e440aa05ab96911853_part_diff_sol.pdf
 file_size: 838493
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

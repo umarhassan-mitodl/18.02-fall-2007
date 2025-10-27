@@ -5,8 +5,6 @@ description: Lecture summary for Week 9. Topics include a test for gradient fiel
 file: /courses/18-02-multivariable-calculus-fall-2007/14a8493b19c42b8fbbeb9d05b5c0fd52_lec_week9.pdf
 file_size: 214804
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

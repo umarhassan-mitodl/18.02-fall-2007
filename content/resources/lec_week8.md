@@ -6,8 +6,6 @@ description: Lecture summary for Week 8. Topics include change of variables, vec
 file: /courses/18-02-multivariable-calculus-fall-2007/fc290ffd36e6ad414dd303887f353523_lec_week8.pdf
 file_size: 222048
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

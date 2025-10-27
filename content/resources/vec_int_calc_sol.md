@@ -4,8 +4,6 @@ description: Solutions to supplementary exercises on vector integral calculus in
 file: /courses/18-02-multivariable-calculus-fall-2007/3f80df26fc2e4f154961d0743009d681_vec_int_calc_sol.pdf
 file_size: 486634
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Supplementary notes on least squares interpolation, the least-squar
 file: /courses/18-02-multivariable-calculus-fall-2007/1f1dc7085b5af1c44b692f037b2810f9_least_sq_intrpol.pdf
 file_size: 224769
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

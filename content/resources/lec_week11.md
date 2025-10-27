@@ -7,8 +7,6 @@ description: Lecture summary for Week 11. Topics include spherical coordinates, 
 file: /courses/18-02-multivariable-calculus-fall-2007/c081c812df4a020e26de273c7cea957c_lec_week11.pdf
 file_size: 222636
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

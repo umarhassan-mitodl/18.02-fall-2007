@@ -4,8 +4,6 @@ description: Supplementary notes on multiply-connected regions and topology.
 file: /courses/18-02-multivariable-calculus-fall-2007/2529033104da2cabfed033efa6931d98_mult_conectd_reg.pdf
 file_size: 296358
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

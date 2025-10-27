@@ -6,8 +6,6 @@ description: Lecture summary for Week 2. Topics include application of cross pro
 file: /courses/18-02-multivariable-calculus-fall-2007/7ffb1e0591d36ba7cc9d6b6b4e1bb587_lec_week2.pdf
 file_size: 201661
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
